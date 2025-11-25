@@ -1,1 +1,4 @@
+[![Watch the project overview video](https://img.youtube.com/vi/7lbdTC3QQJs/maxresdefault.jpg)](https://youtu.be/7lbdTC3QQJs)
+
+
 I redesigned and automated the organization of our Tempercraft proofing files at ProActive Sports, replacing a single overcrowded PDF folder with a structured directory system that mirrors the existing Illustrator production file layout. Using Excel, VBA, Everything search, AI-assisted logic, and Windows PowerShell, I built tools that automatically created folders, matched Illustrator and PDF files by name, and moved thousands of proofs into the correct locations. For larger accounts, I added deeper subfolder structures to separate different customers or logos, combining automated scripts with some manual cleanup where needed. The project showcases my ability to analyze operational problems and build practical, scalable solutions that save time and reduce errors.
